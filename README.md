@@ -29,3 +29,8 @@ create providers.tsx 会包裹我们的整个组件，让我们整个项目都�
 
 添加 connectbutton，并改到layout
 
+
+
+使用synpress做E2E frame test   5:07:40
+
+使用playright pnpm create playwright@latest
